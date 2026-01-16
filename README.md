@@ -37,10 +37,6 @@ This repository is organized by course folders, each containing detailed summari
 - Querying and updating data  
 - **Folder:** `Course4-Databases/`
 
-### Course 5 – Capstone: Python Project (coming soon)
-- Apply all learned concepts in a final project  
-- Combines data structures, functions, APIs, and databases  
-- **Folder:** `Course5-Capstone/`
 
 ---
 
