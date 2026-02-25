@@ -2,13 +2,15 @@
 
 Welcome to my **Learning Journey**! 🎓  
 
-This repository contains **notes, summaries, and small exercises** from the courses and skills I’ve been learning. The goal is to **document my progress, organize my learnings, and make it easy to review and reference in the future**.  
+This repository contains **notes, summaries, and small exercises** from the courses and skills I’ve been learning. 
+The goal is to **document my progress, organize my learnings, and make it easy to review and reference in the future**.  
 
 ---
 
 ## Repository Overview
 
-The repository is organized by **courses and skills**. Each folder contains course-specific notes and exercises.  
+The repository is organized by **courses and skills**. 
+Each folder contains course-specific notes and exercises.  
 
 ---
 
@@ -48,7 +50,6 @@ The repository is organized by **courses and skills**. Each folder contains cour
 
 ## How to Use This Repo
 - Each course folder contains a **README.md** summarizing the course and linking to detailed notes.
-- 
 - You can browse each folder to see **my notes**.  
 
 ---
