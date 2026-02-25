@@ -24,6 +24,12 @@ Each folder contains course-specific notes and exercises.
 
 ---
 
+## Data Analysis
+- Folder: `data-analysis-notes/`
+- Notes and exercises on pandas, numpy, matplotlib.
+
+---
+
 ## SQL
 - Folder: `sql-notes/`
 - Notes and exercises on SQL queries, joins, and database management.
