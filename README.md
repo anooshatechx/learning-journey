@@ -31,12 +31,6 @@ This repository is organized by course folders, each containing detailed summari
 - **Folder:** `Course3/`
 - [Notes](Course3/notes.md)
 
-### Course 4 – Using Databases with Python (coming soon)
-- Introduction to SQL  
-- Connecting Python with databases  
-- Querying and updating data  
-- **Folder:** `Course4-Databases/`
-
 
 ---
 
