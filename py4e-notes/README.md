@@ -42,7 +42,7 @@ This repository is organized by course folders, each containing detailed summari
 ---
 
 ## Related Projects
-Mini-projects built while completing the Python-for-Everybody course are hosted in a separate repository:  
+Mini-projects built after each skill are hosted in a separate repository:  
 [`projects-portfolio`](https://github.com/anoosha-devx/Python-MiniProjects)
 
 ---
